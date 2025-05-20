@@ -1,4 +1,4 @@
-# Audio-Influenced Pseudo-Haptics: Supplementary Materials
+# Survey on Audio-Influenced Pseudo-Haptics: Supplementary Materials
 
 This repository contains supplementary materials for the paper:
 
